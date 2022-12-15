@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+  <ellipse cx="200" cy="300" fill="gray" opacity=".5" rx="60" ry="25" transform="translate(0 90)"/>
+  <circle cx="200" cy="300" r="90" fill="orange"/>
+  <circle cx="195" cy="280" r="36" fill="#fff"/>
+  <circle cx="235" cy="280" r="36" fill="#fff"/>
+  <circle cx="244" cy="280" r="7"/>
+  <circle cx="200" cy="280" r="7"/>
+  <circle cx="215" cy="315" r="10"/>
+  <ellipse cx="200" cy="345" fill="red" rx="17" ry="8"/>
+  <path stroke="orange" stroke-width="4" d="m132.27 241.99 7.321-27.32 27.32 7.32zm98.626-22.404 23.158-9.418 11.129 30.02z"/>
+  <ellipse cx="85" cy="330" fill="orange" rx="50" ry="20" transform="rotate(15 85 330)"/>
+  <path fill="#fff" d="m59.75 339.19-10.94-23.86 24.465-5.142z"/>
+  <ellipse cx="500" cy="300" fill="gray" opacity=".5" rx="60" ry="25" transform="translate(0 90)"/>
+  <circle cx="500" cy="300" r="90" fill="#E9E90C"/>
+  <circle cx="195" cy="280" r="36" fill="#fff" transform="translate(265)"/>
+  <circle cx="235" cy="280" r="36" fill="#fff" transform="translate(270)"/>
+  <circle cx="244" cy="280" r="7" transform="translate(258)"/>
+  <circle cx="200" cy="280" r="7" transform="translate(250)"/>
+  <ellipse cx="200" cy="345" fill="red" rx="8" ry="15" transform="translate(285)"/>
+</svg>
